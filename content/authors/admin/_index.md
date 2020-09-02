@@ -15,17 +15,18 @@ role: IT Advisor, Research Visitor and PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: Petróleo Brasileiro S.A. - PETROBRAS
-  url: "www.petrobras.com.br"
+  url: "https://www.petrobras.com.br"
 - name: Barcelona Supercomputing Center - BSC
-  url: "www.petrobras.com.br"
+  url: "https://www.bsc.es"
 - name: Universitat Politècnica da  Catalunya - UPC
-  url: "www.petrobras.com.br"
+  url: "https://www.upc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - High Performance Computing
+- Distributed Computing
 - Machine Learning
 - Optimization
 - Reservoir Simulation
@@ -81,4 +82,4 @@ user_groups:
 - Visitors
 ---
 
-Felipe Portella is an IT Advisor at the Brazilian energy company Petróleo Brasileiro S.A. (PETROBRAS), working with petroleum reservoir simulation workloads in high performance computing (HPC) environments. He is currently a PhD student at the Universitat Politècnica da Catalunya (BarcelonaTech-UPC) in partnership with the  ata-Centric Computing group of the Barcelona Supercomputing Center (BCN-CNS).
+Felipe Portella is an IT Advisor at the Brazilian energy company Petróleo Brasileiro S.A. (PETROBRAS), working with petroleum reservoir simulation workloads in high performance computing (HPC) environments. He is currently a PhD student at the Universitat Politècnica da Catalunya (BarcelonaTech-UPC) in partnership with the Data-Centric Computing group of the Barcelona Supercomputing Center (BCN-CNS).
