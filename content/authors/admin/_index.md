@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Felipe Portella
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,40 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: IT Advisor, Research Visitor and PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Petróleo Brasileiro S.A. - PETROBRAS
+  url: "www.petrobras.com.br"
+- name: Barcelona Supercomputing Center - BSC
+  url: "www.petrobras.com.br"
+- name: Universitat Politècnica da  Catalunya - UPC
+  url: "www.petrobras.com.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Performance Computing
+- Machine Learning
+- Optimization
+- Reservoir Simulation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD Candidate, Computer Architecture
+    institution: Universitat Politècnica da  Catalunya (UPC)
+    year: 2018 - on going
+  - course: Postgraduate in Petroleum Enginering
+    institution: Universidade do Estado do Rio de Janeiro (UERJ)
+    year: 2013
+  - course: MSc, Computer Science
+    institution: Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
     year: 2008
+  - course: BSc, Computer Science
+    institution: Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +55,16 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/felipe_portella
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=jt14ApcAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/felipeportella/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/felipeportella/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "felipe@portella.com.br"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -70,6 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Felipe Portella is an IT Advisor at the Brazilian energy company Petróleo Brasileiro S.A. (PETROBRAS), working with petroleum reservoir simulation workloads in high performance computing (HPC) environments. He is currently a PhD student at the Universitat Politècnica da Catalunya (BarcelonaTech-UPC) in partnership with the  ata-Centric Computing group of the Barcelona Supercomputing Center (BCN-CNS).
