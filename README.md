@@ -1,3 +1,7 @@
+## PORTELLA NOTES
+
+After changing any MD file regenerate the site with `hugo` command and then just upload the content of the folder `public`. If want to test in the local machine can run the command `hugo server`that will start a webserver in localhost. To install hugo just do `snap install hugo --channel=extended`.
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
