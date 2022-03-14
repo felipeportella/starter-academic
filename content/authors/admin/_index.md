@@ -54,9 +54,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/felipe_portella
+- icon: lattes
+  icon_pack: ai
+  link: http://lattes.cnpq.br/8748288526378905
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?user=jt14ApcAAAAJ
